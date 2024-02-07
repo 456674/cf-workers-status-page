@@ -37,3 +37,8 @@ monitors:
     url: 'https://blog.cloudflare.com/'
     method: GET
     expectStatus: 200
+  - id: asyou20-blog-service
+    name: asyou20-blog-service
+    url: 'https://124.221.134.131/'
+    method: GET
+    expectStatus: 200
